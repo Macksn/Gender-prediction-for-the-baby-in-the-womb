@@ -4,5 +4,6 @@ EN- A program that predicts the sex and date of birth of the baby in the womb, g
 # TR- Anne karnındaki bebek için cinsiyet tahmini
 TR- Anne karnındaki bebeğin cinsiyetini ve doğacağı tarihi tahmin edip , burcu ve kişisel özellikleri hakkında bilgi verip isim önerisinde bulunan program .
 
+![](gender.jpg)
 
 
