@@ -6,5 +6,5 @@ TR- Anne karnındaki bebeğin cinsiyetini ve doğacağı tarihi tahmin edip , bu
 
 
 
-<img src="Girl_or_Boy-2.webp" height="500">
+<img src="Girl_or_Boy-2.webp" height="400">
 
